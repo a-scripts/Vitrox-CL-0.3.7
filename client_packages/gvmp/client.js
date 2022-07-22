@@ -1,6 +1,6 @@
 ﻿try {
     var inPaintball = false;
-    mp.discord.update('Vitrox Crimelife', 'discord.gg/tJGrWZgUfa');
+    mp.discord.update('he', 'he');
 
     mp.game.streaming.requestIpl('ex_dt1_02_office_02b');
     mp.game.streaming.requestIpl('ex_dt1_11_office_02b');
@@ -6303,7 +6303,7 @@
                                 this.firstName = firstName;
                                 this.lastName = lastName;
                                 this.playerId = playerId;
-                                mp.discord.update('Vitrox Crimelife', 'discord.gg/tJGrWZgUfa - ' + playerId);
+                                mp.discord.update('he', 'he');
                                 this.academicPoints = academicPoints;
                                 this.business = business;
                                 this.gwdNote = gwdNote;
