@@ -24,11 +24,10 @@ namespace GVMP
             Logger.Print("     V I T R O X     C R I M E L I F E       S T A R T E D    ");
             Logger.Print("  =========================================================    ");
 
-            Logger.Print("Made by Nuda and Garfield187  ");
+            Logger.Print("A-Scripts: https://discord.gg/z5Kc4EEKNv ");
             Logger.Print("");
 
             MySqlHandler.ExecuteSync(new MySqlQuery("UPDATE vehicles SET Parked = 1"));
-            Logger.Print("Parked all vehicles.");
         }
 
         public bool IsUserAdministrator()

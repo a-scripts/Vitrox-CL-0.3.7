@@ -32,7 +32,7 @@
     <PlatformTarget>x64</PlatformTarget>
     <Optimize>true</Optimize>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
-    <OutputPath>C:\Users\Administrator\Desktop\Vitrox CL 0.3.7\bridge\resources\GVMP\</OutputPath>
+    <OutputPath>C:\Users\hjjjg\OneDrive\Desktop\a-scripts\Vitrox-CL-0.3.7\bridge\resources\GVMP\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
