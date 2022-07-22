@@ -1,0 +1,11 @@
+{
+	"maxplayers" : 512,
+	"language": "ge",
+	"name" : "Vitrox Crimelife | https://discord.gg/tJGrWZgUfa | Teamspeak: Vitrox-Crimelife", 
+	"gamemode" : "Crimelife", 
+	"language": "ge",
+	"stream-distance" : 200.0,
+	"announce" : false,
+	"csharp" : "enabled",
+	"port": 22005
+}

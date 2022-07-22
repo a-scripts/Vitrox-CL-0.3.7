@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GVMP": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\kopfp\\Desktop\\Vitrox CL 0.3.7\\server.exe",
+      "workingDirectory": "C:\\Users\\kopfp\\Desktop\\Vitrox CL 0.3.7",
+      "nativeDebugging": true
+    }
+  }
+}
